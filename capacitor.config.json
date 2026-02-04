@@ -1,0 +1,6 @@
+{
+  "appId": "com.odersad.note",
+  "appName": "ODERSAD Note V4",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
